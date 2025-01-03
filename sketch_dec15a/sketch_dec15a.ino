@@ -3,8 +3,8 @@
 #include <DHT.h>
 
 // Wi-Fi and ThingsBoard Information
-const char* SSID = "A24";
-const char* PASS = "amir0000";
+const char* SSID = "**";
+const char* PASS = "*****";
 const char* TOKEN = "ipt7MDbpgbN8v6skRSLz";
 const char* TB_SERVER = "eu.thingsboard.cloud";
 constexpr uint16_t TB_PORT = 1883;
